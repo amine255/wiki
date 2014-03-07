@@ -10,24 +10,8 @@ sidemenu:
     known_issues: Kown issues
 ---
 
-<div id="betatest"></div>
-## I. Beta _Test_
-As we want to release Poppy 1.0 for the incoming summer, we are intensifying our efforts on the last critical development features and on building a better website for managing the community. Yet we need external feedback and this is why we need beta testers.
-
-There is so many way you can help us:
-
-- Building a Poppy and report bugs or potential improvements
-- Experiment with the platform other applications
-- Create new behaviors
-- Develop missing features (software and hardware)
-- Writing documentation
-- Provide us help to enhance the website
-- Discuss about your experience on how to manage open source projects
-- Share your communication skills
-- and much more !
-
-**Note:** You can use this Google Drive space to share file with us and beta testers</p>
-[Sharing Folder](https://drive.google.com/folderview?id=0B_q9MlqcWxlNeHlHcjdXdmhIRXc&usp=sharing)
+<!-- <div id="betatest"></div>
+## I. Beta _Test_ -->
 
 <hr />
 <div id="repository"></div>
@@ -54,12 +38,6 @@ The source code used with Poppy can be found on a public bitbucket repository. T
 - http://www.tablesgenerator.com/markdown_tables
 - http://www.poppy-project.org/wp-content/uploads/data/electronics.csv
 - http://www.poppy-project.org/wp-content/uploads/data/mounting_tools.csv
-
-<div class="alert alert-info">
-+ Shoes! You have to find baby shoes in a local store. The poppy feet should fit the size 21EU/12cm.</div>
-
-<div class="alert alert-info">
-Quantity: This BOM list includes only the bare minimum! Think about taking additional components, about 20%, to make sure you will not be blocked if one of them breaks.</div>
 
 <hr />
 <div id="known_issues"></div>

@@ -1,18 +1,50 @@
 ---
 layout: default
 ---
+<img src="media/poppy_components-1100x3801.jpg" width="950">
+# Welcome on the _Poppy Wiki_
+Here we will build all documentation and support needed to make Poppy a really easy to use robot. As we want to release Poppy 1.0 for the incoming summer, we are intensifying our efforts on the last critical development features and on building a better website for managing the community. Yet we need external feedback and this is why we need beta testers.
+There is so many way you can help us:
 
-<div class="jumbotron">
-  <h1>Welcome on the <em>Poppy Wiki</em></h1>
-  <p>Here we will build all documentation and support needed to make Poppy a really easy to use robot
-</p>
+- Building a Poppy and report bugs or potential improvements
+- Experiment with the platform other applications
+- Create new behaviors
+- Develop missing features (software and hardware)
+- Writing documentation
+- Provide us help to enhance the website
+- Discuss about your experience on how to manage open source projects
+- Share your communication skills
+- and much more !
+
+**Note:** You can use this Google Drive space to share file with us and beta testers</p>
+
+All our work is open source and available on the [poppy-project github page](https://www.github.com/poppy-project/). Software are distributed under GPLV3 licences and hardware is distributed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence](http://creativecommons.org/licenses/by-nc-sa/3.0/). [![Creative Commons v3](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 <div class="row">
-  <div class="col-sm-4 col-sm-offset-1">
-    <p><a href="https://poppy-project-forum.bordeaux.inria.fr/" class="btn btn-primary btn-lg btn-block" role="button" target="_blank"><i class="fa fa-users fa-fw"></i> Forum &raquo;</a></p>
+  <div class="col-md-4">
+    <p><a href="https://poppy-project-forum.bordeaux.inria.fr/" class="btn btn-primary btn-lg btn-block" role="button" target="_blank"><i class="fa fa-github fa-fw"></i> GitHub &raquo;</a></p>
   </div>
-  <div class="col-sm-4 col-sm-offset-2">
-    <p><a href="https://drive.google.com/folderview?id=0B_q9MlqcWxlNeHlHcjdXdmhIRXc&usp=sharing" class="btn btn-info btn-lg btn-block" role="button" target="_blank"> <i class="fa fa-folder-open fa-fw"></i>Sharing Folder &raquo;</a></p>
+  <div class="col-md-4">
+    <p><a href="https://drive.google.com/folderview?id=0B_q9MlqcWxlNeHlHcjdXdmhIRXc&usp=sharing" class="btn btn-lg btn-block" role="button" target="_blank"> <i class="fa fa-folder-open fa-fw"></i>Shared Folder &raquo;</a></p>
   </div>
+  <div class="col-md-4">
+    <p><a href="https://poppy-project-forum.bordeaux.inria.fr/" class="btn btn-danger btn-lg btn-block" role="button" target="_blank"><i class="fa fa-users fa-fw"></i> Forum &raquo;</a></p>
   </div>
 </div>
+
+<hr />
+<div class="row">
+{% for cat in site.categories %}
+  <div class="col-md-4">
+    <div class="index-menu">
+      <h1> <em> {{ cat[0]}} </em> </h1>
+      {% for post in site.categories.documentation reversed | limit:5 %}
+        <a href="{{site.baseurl}}{{post.url}}"> <strong> {{post.title}} </strong> </a>
+        <br/>
+      {%endfor%}
+    </div>
+  </div>
+{%endfor%}
+
+</div>
+

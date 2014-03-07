@@ -8,6 +8,7 @@ authors:
     gravatar: ef7c64d1a92babba8d87df3436ecef68
     email: matthieulapeyre@gmail.com
     website:
+    nationality: fr # ISO 3166-1-alpha-2 code
     social:
         github: matthieu-lapeyre
         linkedin: in/matthieulapeyre
@@ -16,6 +17,7 @@ authors:
     gravatar: 544435553003a1d3d23b4ab7a4b91783
     email:
     website:
+    nationality: be
     social:
         github: antalakas
 
@@ -30,6 +32,11 @@ baseurl: /wiki
 # permalink: pretty
 permalink: /:categories/:title
 markdown: rdiscount
+
+# Github pages config
+safe: true
+lsi: false
+pygments: true
 
 prose:
   siteurl: 'http://poppy-project.github.io/wiki/'
@@ -99,6 +106,8 @@ prose:
               value: "bug"
             - name: "Fix"
               value: "fix"
+            - name: "Tip"
+              value: "tip"
     _posts/documentation:
       - name: "layout"
         field:

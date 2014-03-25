@@ -18,7 +18,7 @@ There is so many way you can help us:
 
 **Note:** You can use this Google Drive space to share file with us and beta testers</p>
 
-All our work is open source and available on the [poppy-project github page](https://www.github.com/poppy-project/). Software are distributed under GPLV3 licences and hardware is distributed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence](http://creativecommons.org/licenses/by-nc-sa/3.0/). [![Creative Commons v3](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+All our work is open source and available on the [poppy-project github page](https://www.github.com/poppy-project/). Software are distributed under GPLV3 licences and hardware is distributed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence](http://creativecommons.org/licenses/by-nc-sa/3.0/). 
 
 <div class="row">
   <div class="col-md-4">

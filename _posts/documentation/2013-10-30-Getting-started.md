@@ -67,14 +67,14 @@ By using these precautions we have only broken, on average, one engine per year.
 ## V. Advices
 Last but not least, we encourage you to use in prior the wiki portal:
 
-- http://poppy-project.github.io/wiki2
+- [http://poppy-project.github.io/wiki2](http://poppy-project.github.io/wiki2)
 
 Ask and answer question on the forum:
 
-- https://forum.poppy-project.org/
+- [https://forum.poppy-project.org/](https://forum.poppy-project.org/)
 
 Grab the code on the github (hardware and software oriented): 
-- https://github.com/poppy-project/
+- [https://github.com/poppy-project/](https://github.com/poppy-project/)
 
 
 

@@ -12,7 +12,7 @@ published: true
 
 <hr />
 <div id="repository"></div>
-## II. Repository _Access_
+## I. Repository _Access_
 
 ### Software
 The source code used with Poppy can be found on a public bitbucket repository. They are available under a GPLV3 licence. The software is based on the [PyPot Library](http://www.poppy-project.org/pypot-library/). To contribute you can directly fork our repository and send us pull requests. Do not hesitate to directly contact us for any information. Any help or idea will be appreciated!
@@ -31,7 +31,7 @@ The source code used with Poppy can be found on a public bitbucket repository. T
 
 <hr />
 <div id="components"></div>
-## III. Component _list_
+## II. Component _list_
 [Here](https://docs.google.com/spreadsheet/ccc?key=0Avq9MlqcWxlNdGpjY1RwbDMtSDJJSlVpM1VhRkVLVUE&amp;usp=sharing) is the list of all components needed to build a Poppy :
 
 - [www.poppy-project.org/wp-content/uploads/data/3Dprint.csv](http://www.poppy-project.org/wp-content/uploads/data/3Dprint.csv)
@@ -41,7 +41,7 @@ The source code used with Poppy can be found on a public bitbucket repository. T
 
 <hr />
 <div id="known_issues"></div>
-## IV. Known _Issues_
+## III. Known _Issues_
 ### Missing _electronics_
 
 The current open source distribution of Poppy does not include all the head electronics. The design is still a prototype and it cannot be easily reproduce and it is not really effective **so we decided to not share the electronic design it for the moment**.
@@ -64,7 +64,7 @@ By using these precautions we have only broken, on average, one engine per year.
 
 <div id="repository"></div>
 
-## V. Advices
+## IV. Advices
 Last but not least, we encourage you to use in prior the wiki portal:
 
 - [http://poppy-project.github.io/wiki2](http://poppy-project.github.io/wiki2)

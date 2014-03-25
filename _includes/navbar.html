@@ -16,7 +16,7 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Documentation<b class="caret"></b></a>
           <ul class="dropdown-menu">
             {% for post in site.categories.documentation reversed %}
-            <li><a href="{{site.siteurl}}{{ post.url }}">{{ post.title }}</a></li>
+            <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
             <li><a href="http://prose.io/#poppy-project{{site.baseurl}}/new/gh-pages/_posts/documentation" target="_blank"><button type="button" class="btn btn-block btn-sm btn-success">Add a page</button></a></li>
           </ul>

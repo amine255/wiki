@@ -20,6 +20,7 @@ There is so many way you can help us:
 - and much more !
 
 We encourage you to use:
+
 - This wiki to collaborate on the documentation and tutorials
 - The <a href="https://forum.poppy-project.org/" target="_blank">forum</a href> ("stack-exchange" functionalities) to ask and answer questions
 - The hardware & software <a href="https://github.com/poppy-project/" target="_blank">code repository</a href>

@@ -46,6 +46,18 @@ Thanks for your support!
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-4">
+    <p><a href="https://github.com/poppy-project/poppy-hardware-beta" class="btn btn-primary btn-lg btn-block" role="button" target="_blank"><i class="fa fa-github fa-fw"></i> Hardware design &raquo;</a></p>
+  </div>
+  <div class="col-md-4">
+    <p><a href="https://grabcad.com/library/poppy-beta-2" class="btn btn-lg btn-block" role="button" target="_blank"> <i class="fa fa-folder-open fa-fw"></i>STL files &raquo;</a></p>
+  </div>
+  <div class="col-md-4">
+    <p><a href="http://poppy-project.org" class="btn btn-danger btn-lg btn-block" role="button" target="_blank"><i class="fa fa-users fa-fw"></i> Showcase &raquo;</a></p>
+  </div>
+</div>
+
 <hr />
 <div class="row">
 {% for cat in site.categories %}

@@ -36,7 +36,7 @@ Thanks for your support!
 
 <div class="row">
   <div class="col-md-4">
-    <p><a href="https://poppy-project-forum.bordeaux.inria.fr/" class="btn btn-primary btn-lg btn-block" role="button"><i class="fa fa-github fa-fw"></i> GitHub &raquo;</a></p>
+    <p><a href="https://github.com/poppy-project/" class="btn btn-primary btn-lg btn-block" role="button"><i class="fa fa-github fa-fw"></i> GitHub &raquo;</a></p>
   </div>
   <div class="col-md-4">
     <p><a href="https://drive.google.com/folderview?id=0B_q9MlqcWxlNeHlHcjdXdmhIRXc&usp=sharing" class="btn btn-lg btn-block" role="button"> <i class="fa fa-folder-open fa-fw"></i>Shared Folder &raquo;</a></p>

@@ -3,7 +3,10 @@ layout: default
 ---
 <img src="media/poppy_components-1100x3801.jpg" width="950">
 # Welcome on the _Poppy Wiki_
-Here we will build all documentation and support needed to make Poppy a really easy to use robot. As we want to release Poppy 1.0 for the incoming summer, we are intensifying our efforts on the last critical development features and on building a better website for managing the community. Yet we need external feedback and this is why we need beta testers.
+Here we will build all documentation and support needed to make Poppy a really <b>easy to use robot.</b> 
+
+As we want to release Poppy 1.0 for the incoming summer, we are intensifying our efforts on the last critical development features and on <b>building a better website</b> for managing the community. Yet we <b>need external feedback</b> and this is why we need beta testers.
+
 There is so many way you can help us:
 
 - Building a Poppy and report bugs or potential improvements
@@ -16,9 +19,19 @@ There is so many way you can help us:
 - Share your communication skills
 - and much more !
 
-**Note:** You can use this Google Drive space to share file with us and beta testers</p>
+We encourage you to use:
+- This wiki to collaborate on the documentation and tutorials,
+- The <a href="https://forum.poppy-project.org/" target="_blank">forum</a href> ("stack-exchange" functionalities) to ask and answer questions.
+- The hardware & software <a href="https://github.com/poppy-project/" target="_blank">code repository</a href>
+- The <a href="http://poppy-project.org" target="_blank">showcase portal </a href>
+
+**Note:** You can use the <a href="https://drive.google.com/folderview?id=0B_q9MlqcWxlNeHlHcjdXdmhIRXc&usp=sharing" target="_blank">Poppy Google Drive</a href> space to upload/share files with POPPY team and the rest of the community</p>
 
 All our work is open source and available on the [poppy-project github page](https://www.github.com/poppy-project/). Software are distributed under GPLV3 licences and hardware is distributed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence](http://creativecommons.org/licenses/by-nc-sa/3.0/). 
+
+Thanks for your support!
+
+<hr />
 
 <div class="row">
   <div class="col-md-4">

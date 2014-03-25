@@ -17,4 +17,5 @@ We have moved the Grabcad data into a github repository and all the STL schemas 
 - The github (hardware oriented) is here: [https://github.com/poppy-project/poppy-hardware-beta](https://github.com/poppy-project/poppy-hardware-beta)
 
 Don't hesitate to use the forum to ask questions about this document.
+
 Poppy team.

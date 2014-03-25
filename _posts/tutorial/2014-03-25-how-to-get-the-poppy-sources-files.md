@@ -1,7 +1,7 @@
 ---
 category: tutorial
 layout: documentation
-published: false
+published: true
 title: How to get the poppy sources files
 sidemenu: null
 ---

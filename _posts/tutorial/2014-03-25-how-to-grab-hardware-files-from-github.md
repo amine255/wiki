@@ -1,3 +1,11 @@
+---
+category: tutorial
+layout: documentation
+published: false
+title: "how-to-grab-hardware-files-from-github"
+sidemenu: null
+---
+
 Hardware design files <a id="top"></a>
 =======
 

@@ -22,11 +22,11 @@ There is so many way you can help us:
 We encourage you to use:
 
 - This wiki to collaborate on the documentation and tutorials
-- The <a href="https://forum.poppy-project.org/" target="_blank">forum</a href> ("stack-exchange" functionalities) to ask and answer questions
-- The hardware & software <a href="https://github.com/poppy-project/" target="_blank">code repository</a href>
-- The <a href="http://poppy-project.org" target="_blank">showcase portal</a href>
+- The <a href="https://forum.poppy-project.org/">forum</a href> ("stack-exchange" functionalities) to ask and answer questions
+- The hardware & software <a href="https://github.com/poppy-project/">code repository</a href>
+- The <a href="http://poppy-project.org">showcase portal</a href>
 
-**Note:** You can use the <a href="https://drive.google.com/folderview?id=0B_q9MlqcWxlNeHlHcjdXdmhIRXc&usp=sharing" target="_blank">Poppy Google Drive</a href> space to upload/share files with POPPY team and the rest of the community</p>
+**Note:** You can use the <a href="https://drive.google.com/folderview?id=0B_q9MlqcWxlNeHlHcjdXdmhIRXc&usp=sharing">Poppy Google Drive</a href> space to upload/share files with POPPY team and the rest of the community</p>
 
 All our work is open source and available on the [poppy-project github page](https://www.github.com/poppy-project/). Software are distributed under GPLV3 licences and hardware is distributed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence](http://creativecommons.org/licenses/by-nc-sa/3.0/). 
 
@@ -36,25 +36,25 @@ Thanks for your support!
 
 <div class="row">
   <div class="col-md-4">
-    <p><a href="https://poppy-project-forum.bordeaux.inria.fr/" class="btn btn-primary btn-lg btn-block" role="button" target="_blank"><i class="fa fa-github fa-fw"></i> GitHub &raquo;</a></p>
+    <p><a href="https://poppy-project-forum.bordeaux.inria.fr/" class="btn btn-primary btn-lg btn-block" role="button"><i class="fa fa-github fa-fw"></i> GitHub &raquo;</a></p>
   </div>
   <div class="col-md-4">
-    <p><a href="https://drive.google.com/folderview?id=0B_q9MlqcWxlNeHlHcjdXdmhIRXc&usp=sharing" class="btn btn-lg btn-block" role="button" target="_blank"> <i class="fa fa-folder-open fa-fw"></i>Shared Folder &raquo;</a></p>
+    <p><a href="https://drive.google.com/folderview?id=0B_q9MlqcWxlNeHlHcjdXdmhIRXc&usp=sharing" class="btn btn-lg btn-block" role="button"> <i class="fa fa-folder-open fa-fw"></i>Shared Folder &raquo;</a></p>
   </div>
   <div class="col-md-4">
-    <p><a href="https://poppy-project-forum.bordeaux.inria.fr/" class="btn btn-danger btn-lg btn-block" role="button" target="_blank"><i class="fa fa-users fa-fw"></i> Forum &raquo;</a></p>
+    <p><a href="https://poppy-project-forum.bordeaux.inria.fr/" class="btn btn-danger btn-lg btn-block" role="button" ><i class="fa fa-users fa-fw"></i> Forum &raquo;</a></p>
   </div>
 </div>
 
 <div class="row">
   <div class="col-md-4">
-    <p><a href="https://github.com/poppy-project/poppy-hardware-beta" class="btn btn-primary btn-lg btn-block" role="button" target="_blank"><i class="fa fa-github fa-fw"></i> Hardware design &raquo;</a></p>
+    <p><a href="https://github.com/poppy-project/poppy-hardware-beta" class="btn btn-primary btn-lg btn-block" role="button"><i class="fa fa-github fa-fw"></i> Hardware design &raquo;</a></p>
   </div>
   <div class="col-md-4">
-    <p><a href="https://grabcad.com/library/poppy-beta-2" class="btn btn-lg btn-block" role="button" target="_blank"> <i class="fa fa-folder-open fa-fw"></i>STL archived files &raquo;</a></p>
+    <p><a href="https://grabcad.com/library/poppy-beta-2" class="btn btn-lg btn-block" role="button"> <i class="fa fa-folder-open fa-fw"></i>STL archived files &raquo;</a></p>
   </div>
   <div class="col-md-4">
-    <p><a href="http://poppy-project.org" class="btn btn-danger btn-lg btn-block" role="button" target="_blank"><i class="fa fa-users fa-fw"></i> Showcase &raquo;</a></p>
+    <p><a href="http://poppy-project.org" class="btn btn-danger btn-lg btn-block" role="button"><i class="fa fa-users fa-fw"></i> Showcase &raquo;</a></p>
   </div>
 </div>
 

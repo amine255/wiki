@@ -28,7 +28,7 @@ authors:
 ##############################################
 
 name: Poppy project wiki
-# baseurl: /wiki
+baseurl: /
 # permalink: pretty
 permalink: /:categories/:title
 markdown: rdiscount

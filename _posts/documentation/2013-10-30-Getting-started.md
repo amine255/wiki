@@ -25,6 +25,7 @@ The source code used with Poppy can be found on a public bitbucket repository. T
 *The Poppy project* by [Inria](http://www.poppy-project.org) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 - [GrabCAD Repository](https://github.com/poppy-project/poppy-hardware-beta)
+
 - [GrabCAD STL Files](https://grabcad.com/library/poppy-beta-2)
 
 
@@ -63,9 +64,9 @@ By using these precautions we have only broken, on average, one engine per year.
 
 <div id="repository"></div>
 
-## III. Advices
+## V. Advices
 Last but not least, we encourage you to use in prior the wiki portal:
-- http://poppy-project.github.io/wiki2,
+- http://poppy-project.github.io/wiki2
 
 Ask and answer question on the forum
 - https://forum.poppy-project.org/

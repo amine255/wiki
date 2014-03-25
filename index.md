@@ -59,18 +59,4 @@ Thanks for your support!
 </div>
 
 <hr />
-<div class="row">
-{% for cat in site.categories %}
-  <div class="col-md-4">
-    <div class="index-menu">
-      <h1> <em> {{ cat[0]}} </em> </h1>
-      {% for post in site.categories.documentation reversed | limit:5 %}
-        <a href="{{site.baseurl}}{{post.url}}"> <strong> {{post.title}} </strong> </a>
-        <br/>
-      {%endfor%}
-    </div>
-  </div>
-{%endfor%}
-
-</div>
 

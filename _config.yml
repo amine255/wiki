@@ -28,7 +28,7 @@ authors:
 ##############################################
 
 name: Poppy project wiki
-baseurl: /wiki
+# baseurl: /wiki
 # permalink: pretty
 permalink: /:categories/:title
 markdown: rdiscount
@@ -39,8 +39,8 @@ lsi: false
 pygments: true
 
 prose:
-  siteurl: 'http://poppy-project.github.io/wiki/'
-  relativeLinks: 'http://poppy-project.github.io/wiki/links.jsonp'
+  siteurl: 'http://wiki.poppy-project.org/'
+  relativeLinks: 'http://wiki.poppy-project.org/links.jsonp'
   media: 'media'
   ignore:
     - /_includes

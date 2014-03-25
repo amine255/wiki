@@ -39,8 +39,8 @@ lsi: false
 pygments: true
 
 prose:
-  siteurl: 'http://wiki.poppy-project.org/'
-  relativeLinks: 'http://wiki.poppy-project.org/links.jsonp'
+  siteurl: 'wiki.poppy-project.org/'
+  relativeLinks: 'wiki.poppy-project.org/links.jsonp'
   media: 'media'
   ignore:
     - /_includes

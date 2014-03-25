@@ -51,7 +51,7 @@ Thanks for your support!
     <p><a href="https://github.com/poppy-project/poppy-hardware-beta" class="btn btn-primary btn-lg btn-block" role="button"><i class="fa fa-github fa-fw"></i> Hardware design &raquo;</a></p>
   </div>
   <div class="col-md-4">
-    <p><a href="http://wiki.poppy-project.org/documentation/pypot-library/" class="btn btn-lg btn-block" role="button"> <i class="fa fa-folder-open fa-fw"></i>PyPot Library Documentation &raquo;</a></p>
+    <p><a href="http://wiki.poppy-project.org/documentation/pypot-library/" class="btn btn-lg btn-block" role="button"> <i class="fa fa-folder-open fa-fw"></i>PyPot Lib Documentation &raquo;</a></p>
   </div>
   <div class="col-md-4">
     <p><a href="http://poppy-project.org" class="btn btn-danger btn-lg btn-block" role="button"><i class="fa fa-users fa-fw"></i> Showcase &raquo;</a></p>

@@ -6,7 +6,7 @@ title: How to grab hardware files from GitHub
 sidemenu: null
 ---
 
-We have created a document explaing you how to grab the hardware file from the new github repository : 
+We have created a document explaing you how to grab the hardware file from the new github repository: 
 
 - [https://forum.poppy-project.org/t/how-to-get-the-poppy-sources-files/](https://forum.poppy-project.org/t/how-to-get-the-poppy-sources-files/)
 
@@ -15,6 +15,7 @@ In fact, we took the decision to stop supporting the Poppy Workbench on Grabcad 
 The workbench has been deleted BUT our collaboration CONTINUE.  
 
 We have moved the Grabcad data into a github repository and all the STL schemas are still available on the Grabcad library section.
+
 
 From now on, we encourage you to use...
 

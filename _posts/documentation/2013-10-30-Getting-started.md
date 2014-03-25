@@ -1,13 +1,10 @@
 ---
-layout: documentation
 category: documentation
-title: Start Up <em>Guide</em>
+layout: documentation
+title: "Start Up <em>Guide</em>"
 author: matthieulapeyre
-sidemenu:
-    betatest: Beta Test
-    repository: Repository Access
-    components: Component list
-    known_issues: Kown issues
+sidemenu: null
+published: true
 ---
 
 <!-- <div id="betatest"></div>
@@ -20,7 +17,7 @@ sidemenu:
 ### Software
 The source code used with Poppy can be found on a public bitbucket repository. They are available under a GPLV3 licence. The software is based on the [PyPot Library](http://www.poppy-project.org/pypot-library/). To contribute you can directly fork our repository and send us pull requests. Do not hesitate to directly contact us for any information. Any help or idea will be appreciated!
 
-[PyPot Repository](https://bitbucket.org/pierrerouanet/pypot)
+[PyPot Repository](https://github.com/poppy-project/pypot)
 
 ### Hardware
 ->[![Creative Commons v3](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)<-

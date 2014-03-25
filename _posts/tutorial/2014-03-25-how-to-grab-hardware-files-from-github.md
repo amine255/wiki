@@ -1,8 +1,8 @@
 ---
 category: tutorial
 layout: documentation
-published: true
-title: "How-to-grab-hardware-files-from-github"
+published: false
+title: How to grab hardware files from GitHub
 sidemenu: null
 ---
 

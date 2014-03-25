@@ -6,8 +6,6 @@ title: How to get the poppy sources files
 sidemenu: null
 ---
 
-## How to get the poppy sources files
-
 The whole sources of Poppy are hosted on GitHub, both for software and hardware. 
 
 Click on the following link to access the full tutorial (under construction) from poppy forum website.

@@ -1,7 +1,7 @@
 ---
 category: tutorial
 layout: documentation
-published: false
+published: true
 title: How to access the STL archives section
 sidemenu: null
 ---

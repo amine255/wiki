@@ -1,11 +1,10 @@
 ---
 category: documentation
 layout: documentation
-published: false
+published: true
 title: PyPot library
 sidemenu: null
 ---
-
 
 - [http://poppy-project.github.io/pypot/](http://poppy-project.github.io/pypot/)
 

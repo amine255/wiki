@@ -2,7 +2,7 @@
 category: documentation
 layout: documentation
 published: true
-title: PyPot library
+title: PyPot library documentation
 sidemenu: null
 ---
 

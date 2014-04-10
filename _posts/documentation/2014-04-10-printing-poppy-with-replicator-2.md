@@ -1,7 +1,7 @@
 ---
 category: documentation
 layout: documentation
-published: true
+published: false
 title: Printing Poppy with Replicator 2
 sidemenu: null
 ---
@@ -52,12 +52,13 @@ The different characteristic is:
 
 ## Head Face
 
+
 ## Foot (right and left) + 2 Connector + 2 Spine
 
 The different characteristic is:
-- Time:
-- Matérial:
-- Price: approximately 
+- Time: 4h55
+- Matérial: 85g
+- Price: approximately 2,5€
 
 
 

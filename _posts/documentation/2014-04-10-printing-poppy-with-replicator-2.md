@@ -37,7 +37,7 @@ The different characteristic is:
 
 The different characteristic is:
 - Time:
-- Matérial: g
+- Matérial:
 - Price: approximately 
 
 ## Head crane:
@@ -52,6 +52,10 @@ The different characteristic is:
 
 ## Head Face
 
+The different characteristic is:
+- Time:
+- Matérial:
+- Price: approximately 
 
 ## Foot (right and left) + 2 Connector + 2 Spine
 

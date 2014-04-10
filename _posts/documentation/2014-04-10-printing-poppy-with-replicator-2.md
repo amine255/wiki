@@ -1,7 +1,7 @@
 ---
 category: documentation
 layout: documentation
-published: false
+published: true
 title: Printing Poppy with Replicator 2
 sidemenu: null
 ---
@@ -51,6 +51,14 @@ The different characteristic is:
 - Price: approximately 5€
 
 ## Head Face
+
+## Foot (right and left) + 2 Connector + 2 Spine
+
+The different characteristic is:
+- Time:
+- Matérial:
+- Price: approximately 
+
 
 
 

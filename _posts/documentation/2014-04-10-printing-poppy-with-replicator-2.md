@@ -1,7 +1,7 @@
 ---
 category: documentation
 layout: documentation
-published: false
+published: true
 title: Printing Poppy with Replicator 2
 sidemenu: null
 ---

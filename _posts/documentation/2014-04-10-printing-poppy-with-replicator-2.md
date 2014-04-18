@@ -13,6 +13,7 @@ I prepared the tray with Makerbot software for printing Poppy:
 [download](https://docs.google.com/file/d/0B6T9dkX7VsL-VmoxaDJBLUJ4UjA/edit)
 
 The different characteristic is:
+
 - Time: 14h55
 - Matérial: 154g
 - Price: approximately 4,6€
@@ -20,6 +21,7 @@ The different characteristic is:
 ## Right leg
 
 The different characteristic is:
+
 - Time:
 - Matérial:
 - Price: approximately 
@@ -27,6 +29,7 @@ The different characteristic is:
 ## Left arm
 
 The different characteristic is:
+
 - Time:
 - Matérial:
 - Price: approximately 
@@ -34,6 +37,7 @@ The different characteristic is:
 ## Right arm
 
 The different characteristic is:
+
 - Time:
 - Matérial:
 - Price: approximately 
@@ -43,6 +47,7 @@ The different characteristic is:
 [download](https://docs.google.com/file/d/0B6T9dkX7VsL-aUw4VVViR2RGUm8/edit)
 
 The different characteristic is:
+
 - Time: 12h10
 - Matérial: 162g
 - Price: approximately 5€
@@ -50,6 +55,7 @@ The different characteristic is:
 ## Head Face
 
 The different characteristic is:
+
 - Time:
 - Matérial:
 - Price: approximately 
@@ -57,6 +63,7 @@ The different characteristic is:
 ## Foot (right and left) + 2 Connector + 2 Spine
 
 The different characteristic is:
+
 - Time: 4h55
 - Matérial: 85g
 - Price: approximately 2,5€

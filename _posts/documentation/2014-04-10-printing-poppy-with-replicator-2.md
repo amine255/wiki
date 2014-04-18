@@ -14,6 +14,7 @@ I prepared the tray with Makerbot software for printing Poppy:
 ![](/media/Left_leg%20(3).JPG)
 ![](/media/Left_leg%20(4).JPG)
 
+[download](https://docs.google.com/file/d/0B6T9dkX7VsL-VmoxaDJBLUJ4UjA/edit)
 The different characteristic is:
 - Time: 14h55
 - Matérial: 154g

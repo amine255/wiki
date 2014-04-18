@@ -9,6 +9,13 @@ sidemenu: null
 We have prepared some things for the Makerbot software to print Poppy:
 
 ## Left leg:
+
+Parameters:
+
+- Raft: off
+- Support: off
+- Temperature: 230°
+
 The different characteristic is:
 
 - Time: 14h55
@@ -48,6 +55,12 @@ The different characteristic is:
 - Price: approximately
 
 ## Head crane:
+
+Parameters:
+
+- Raft: off
+- Support: off
+- Temperature: 230°
 
 The different characteristic is:
 
